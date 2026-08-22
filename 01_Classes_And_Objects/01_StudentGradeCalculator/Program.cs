@@ -1,15 +1,4 @@
 ﻿
-/*Create a Student class with:
-
-name
-rollNo
-marks
-
-A function to calculate and display the student's grade based on their marks.
-Create multiple Student objects and call the grade-calculation function for each student.
-
-********** Author: Muhammad Areeb Shoaib **********
-*/
 using System;
 namespace _01_StudentGradeCalculator
 {
