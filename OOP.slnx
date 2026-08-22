@@ -2,6 +2,7 @@
   <Folder Name="/01_Classes_And_Objects/">
     <Project Path="01_Classes_And_Objects/01_StudentGradeCalculator/01_StudentGradeCalculator.csproj" Id="8a221f63-4e8a-437d-a8b2-8e50ea96a6fe" />
     <Project Path="01_Classes_And_Objects/02_BankAccountSystem/02_BankAccountSystem.csproj" Id="afa499f9-8d27-4834-9587-c4146148c2be" />
+    <Project Path="03_RectangleAreaPerimeter/03_RectangleAreaPerimeter.csproj" Id="ecb221d2-8d98-43fe-92ea-9ecbf5fe323b" />
   </Folder>
   <Project Path="01_IPayable/01_IPayable.csproj" />
 </Solution>
