@@ -1,13 +1,13 @@
 # Classes and Objects
 
-This section contains C# exercises focused on the fundamentals of
-classes and objects.
+This section contains C# exercises focused on the fundamentals of classes and objects.
 
 ## Problems
 
 ### 01. Student Grade Calculator
 
 Create a `Student` class with:
+
 - Name
 - Roll Number
 - Marks
@@ -15,19 +15,49 @@ Create a `Student` class with:
 
 **Concepts:** Classes, Objects, Fields, Constructors, Methods, Encapsulation
 
+---
+
 ### 02. Bank Account System
 
 Create a `BankAccount` class with:
+
 - Deposit
 - Withdraw
 - Balance Check
 
 **Concepts:** Classes, Objects, Fields, Constructors, Methods, Encapsulation
 
+---
+
 ### 03. Rectangle Area & Perimeter
 
 Create a `Rectangle` class that calculates:
+
 - Area
 - Perimeter
 
 **Concepts:** Classes, Objects, Fields, Constructors, Methods
+
+---
+
+### 04. Car Start & Stop
+
+Create a `Car` class with methods to:
+
+- Start the car
+- Stop the car
+- Display car information
+
+**Concepts:** Classes, Objects, Fields, Constructors, Methods
+
+---
+
+### 05. Book Issue & Return
+
+Create a `Book` class with functionality to:
+
+- Issue a book
+- Return a book
+- Track the book's availability
+
+**Concepts:** Classes, Objects, Fields, Constructors, Methods, Encapsulation
