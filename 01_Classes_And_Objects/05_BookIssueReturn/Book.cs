@@ -17,6 +17,7 @@ namespace _05_BookIssueReturn
             if (Book1 || Book2)
             {
                 Console.WriteLine("***** Available Books *****");
+                Console.WriteLine();
 
                 if (Book1)
                 {
@@ -42,7 +43,10 @@ namespace _05_BookIssueReturn
             options();
             void options()
             {
+                Console.WriteLine();
                 Console.WriteLine("***** Options *****");
+                Console.WriteLine();
+
                 if (Book1 || Book2)
                 {
                     if (Book1)
@@ -122,6 +126,7 @@ namespace _05_BookIssueReturn
         public void ReturnBook()
         {
             Console.WriteLine("***** Return Book *****");
+            Console.WriteLine();
 
             Console.WriteLine("Which Book you want to return?");
             Console.WriteLine($"1: {BookTitle1}");
