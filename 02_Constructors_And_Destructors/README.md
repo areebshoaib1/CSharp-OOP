@@ -1,4 +1,4 @@
-# C# Constructors
+# C# Constructors & Destructors
 
 This project contains C# OOP practice problems focused on **constructors, constructor overloading, object initialization, static members, and destructor/finalizer behavior**.
 
