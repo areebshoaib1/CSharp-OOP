@@ -1,10 +1,23 @@
 <Solution>
+
   <Folder Name="/01_Classes_And_Objects/">
     <Project Path="01_Classes_And_Objects/01_StudentGradeCalculator/01_StudentGradeCalculator.csproj" Id="8a221f63-4e8a-437d-a8b2-8e50ea96a6fe" />
     <Project Path="01_Classes_And_Objects/02_BankAccountSystem/02_BankAccountSystem.csproj" Id="afa499f9-8d27-4834-9587-c4146148c2be" />
     <Project Path="01_Classes_And_Objects/03_RectangleAreaPerimeter/03_RectangleAreaPerimeter.csproj" Id="ecb221d2-8d98-43fe-92ea-9ecbf5fe323b" />
     <Project Path="01_Classes_And_Objects/04_CarStartStop/04_CarStartStop.csproj" Id="384fcfef-13d6-4f6e-8623-d85915b3b19f" />
     <Project Path="01_Classes_And_Objects/05_BookIssueReturn/05_BookIssueReturn.csproj" Id="e8a66798-ed68-4ad4-9d34-d71d3a0450bf" />
+  </Folder>
+
+  <Folder Name="/02_Constructors_And_Destructors/">
+    <Project Path="02_Constructors_And_Destructors/01_DefaultParameterizedConstructors/01_DefaultParameterizedConstructors.csproj" Id="60debd4f-27a0-43b9-b5e5-13658a618d4f" />
+    <Project Path="02_Constructors_And_Destructors/02_ArrayConstructor/02_ArrayConstructor.csproj" Id="e93b9430-4771-4d7a-9f13-b92af0767805" />
+    <Project Path="02_Constructors_And_Destructors/03_ConstructorObjectCounter/03_ConstructorObjectCounter.csproj" Id="bef3f5d0-4dfc-47c8-a856-ad48434514fa" />
+    <Project Path="02_Constructors_And_Destructors/04_ConstructorOverloading/04_ConstructorOverloading.csproj" Id="9ab8119c-5f13-468c-92a5-6d3087d3ad2d" />
+    <Project Path="02_Constructors_And_Destructors/05_ConstructorDestructorOrder/05_ConstructorDestructorOrder.csproj" Id="f15d89c6-914c-4323-9aff-076021a58b3a" />
+  </Folder>
+  
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
   </Folder>
   <Project Path="01_IPayable/01_IPayable.csproj" />
 </Solution>
